@@ -1,0 +1,29 @@
+﻿@model ChatApps.Models.ChatViewModel
+
+<h1>Чат Съобщения</h1>
+
+@if (Model.Messages.Any())
+{
+    <ul>
+        @foreach (var message in Model.Messages)
+        {
+            <li>@message.Sender: @message.Text</li>
+        }
+    </ul>
+}
+else
+{
+    <p>Все още няма съобщения!</p>
+}
+
+<form asp-controller="Chat" asp-action="Send" method="post">
+    <div>
+        <label for="sender">Изпращач:</label>
+        <input type="text" id="sender" name="CurrentMessage.Sender" required />
+    </div>
+    <div>
+        <label for="message">Съобщение:</label>
+        <input type="text" id="message" name="CurrentMessage.Text" required />
+    </div>
+    <button type="submit">Изпрати</button>
+</form>
