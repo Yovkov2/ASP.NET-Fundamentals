@@ -1,0 +1,11 @@
+C:\Users\35988\Downloads\05.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\bin\Debug\net6.0\BookShop.Models.deps.json
+C:\Users\35988\Downloads\05.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\bin\Debug\net6.0\BookShop.Models.dll
+C:\Users\35988\Downloads\05.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\bin\Debug\net6.0\BookShop.Models.pdb
+C:\Users\35988\Downloads\05.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\BookShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\Downloads\05.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\BookShop.Models.AssemblyInfoInputs.cache
+C:\Users\35988\Downloads\05.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\BookShop.Models.AssemblyInfo.cs
+C:\Users\35988\Downloads\05.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\BookShop.Models.csproj.CoreCompileInputs.cache
+C:\Users\35988\Downloads\05.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\BookShop.Models.dll
+C:\Users\35988\Downloads\05.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\refint\BookShop.Models.dll
+C:\Users\35988\Downloads\05.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\BookShop.Models.pdb
+C:\Users\35988\Downloads\05.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\ref\BookShop.Models.dll
